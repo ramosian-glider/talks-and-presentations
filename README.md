@@ -12,3 +12,6 @@
  
 ## 2020
  * [Fighting Uninitialized Memory in the Kernel](https://github.com/ramosian-glider/talks-and-presentations/blob/master/2020/Fighting_uninitialized_memory_at_CBL_Meetup_2020.pdf) (ClangBuiltLinux Meetup 2020)
+
+## 2021
+ * [KernelMemorySanitizer: a look under the hood](https://github.com/ramosian-glider/talks-and-presentations/blob/master/2021/KernelMemorySanitizer_a_look_under_the_hood.pdf) (Online talk for the Universidad Nacional de Córdoba)
