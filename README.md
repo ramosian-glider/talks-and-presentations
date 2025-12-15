@@ -15,3 +15,6 @@
 
 ## 2021
  * [KernelMemorySanitizer: a look under the hood](https://github.com/ramosian-glider/talks-and-presentations/blob/master/2021/KernelMemorySanitizer_a_look_under_the_hood.pdf) (Online talk for the Universidad Nacional de Córdoba)
+
+## 2025
+ * [SYZOS: practical KVM fuzzing](https://github.com/ramosian-glider/talks-and-presentations/2025/SYZOS%20for%20LPC%202025.pdf) (Linux Plumbers Conference 2025)
